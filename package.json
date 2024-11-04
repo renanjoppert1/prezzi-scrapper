@@ -1,0 +1,16 @@
+{
+  "name": "prezi-scrapper-transcript",
+  "version": "1.0.0",
+  "main": "scrapper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node scrapper.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "puppeteer": "^23.6.1"
+  }
+}
