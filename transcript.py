@@ -28,7 +28,7 @@ def extrair_texto_de_imagens_pdf(pdf_path, output_txt_path):
     print(f"Texto extraído e salvo em {output_txt_path}")
 
 # Caminho para o arquivo PDF de entrada e o arquivo TXT de saída
-nome_arquivo = "Módulo Supervisor de Vendas - Parte I"
+nome_arquivo = "Cadastrando Modelo E-mail, Causa e Solução"
 caminho_pdf = f"{nome_arquivo}.pdf"
 caminho_saida_txt = f"{nome_arquivo}.txt"
 

@@ -4,13 +4,16 @@
   "main": "scrapper.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node scrapper.js"
+    "start": "node scrapper.js",
+    "transcript": "node transcript.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "pdf-lib": "^1.17.1",
+    "prezzi-scrapper": "file:",
     "puppeteer": "^23.6.1"
   }
 }
